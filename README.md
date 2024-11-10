@@ -56,6 +56,8 @@ To set APP Key
 
 ![Screenshot 2024-10-14 085914](https://github.com/user-attachments/assets/33ec4a0e-8533-48db-a8ee-1a47b7a79802)
 
+![Screenshot 2024-10-14 085935](https://github.com/user-attachments/assets/f7ca0633-66d5-4618-a3fa-564d9b97f5fd)
+
 
 ![Screenshot 2024-10-14 090208](https://github.com/user-attachments/assets/474c207b-61b9-4dd3-873f-5cba38bb16e9)
 
