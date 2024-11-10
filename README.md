@@ -1,4 +1,8 @@
  ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+### DATE : 07.11.2024
+### NAME : SOUNDARYA J
+### ROLL NO: 212223220108
+### DEPARTMENT : IT
  
 ## Aim: To  configure  the Network server and end device for traferring data on the network
 ## Components required: end node stm 32 development kit , dragino LPS8, network server 
